@@ -1,0 +1,3 @@
+device_description.c:113:6:set_default_description	112	static
+device_description.c:621:6:update_sensorStatus	32	static
+device_description.c:687:6:update_sensors_config	16	static

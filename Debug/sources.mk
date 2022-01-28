@@ -22,20 +22,14 @@ OBJCOPY_BIN :=
 SUBDIRS := \
 Application/SW4STM32 \
 Application/User \
-Drivers/BSP/Components \
+Drivers/BSP/Components/hts221 \
+Drivers/BSP/Components/iis2dh \
+Drivers/BSP/Components/iis2mdc \
 Drivers/BSP/Components/iis3dwb \
+Drivers/BSP/Components/ism330dhcx \
+Drivers/BSP/Components/lps22hh \
+Drivers/BSP/Components/stts751 \
 Drivers/BSP/STWIN \
-Drivers/CMSIS/DSP/Source/BasicMathFunctions \
-Drivers/CMSIS/DSP/Source/CommonTables \
-Drivers/CMSIS/DSP/Source/ComplexMathFunctions \
-Drivers/CMSIS/DSP/Source/ControllerFunctions \
-Drivers/CMSIS/DSP/Source/FastMathFunctions \
-Drivers/CMSIS/DSP/Source/FilteringFunctions \
-Drivers/CMSIS/DSP/Source/MatrixFunctions \
-Drivers/CMSIS/DSP/Source/StatisticsFunctions \
-Drivers/CMSIS/DSP/Source/SupportFunctions \
-Drivers/CMSIS/DSP/Source/TransformFunctions \
-Drivers/CMSIS \
 Drivers/STM32L4xx_HAL_Driver/Src/Legacy \
 Drivers/STM32L4xx_HAL_Driver/Src \
 Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src \

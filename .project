@@ -42,64 +42,9 @@
 			<locationURI>PARENT-1-PROJECT_LOC/syscalls.c</locationURI>
 		</link>
 		<link>
-			<name>Application/User/HSD_json.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/HSD_json.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/com_manager.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/com_manager.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/device_description.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/device_description.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/hts221_app.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/hts221_app.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/iis2dh_app.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/iis2dh_app.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/iis2mdc_app.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/iis2mdc_app.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/iis3dwb_app.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/iis3dwb_app.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/imp34dt05_app.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/imp34dt05_app.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/ism330dhcx_app.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/ism330dhcx_app.c</locationURI>
-		</link>
-		<link>
 			<name>Application/User/lps22hh_app.c</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/Src/lps22hh_app.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/main.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/main.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/mp23abs1_app.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/mp23abs1_app.c</locationURI>
 		</link>
 		<link>
 			<name>Application/User/sdcard_manager.c</name>
@@ -135,66 +80,6 @@
 			<name>Application/User/usbd_wcid_interface.c</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/Src/usbd_wcid_interface.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/CMSIS/system_stm32l4xx.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/system_stm32l4xx.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/Components/hts221_reg.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/Components/hts221/hts221_reg.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/Components/iis2dh_reg.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/Components/iis2dh/iis2dh_reg.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/Components/iis2mdc_reg.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/Components/iis2mdc/iis2mdc_reg.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/Components/iis3dwb_reg.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/Components/iis3dwb/iis3dwb_reg.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/Components/ism330dhcx_reg.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/Components/ism330dhcx/ism330dhcx_reg.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/Components/lps22hh_reg.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/Components/lps22hh/lps22hh_reg.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/Components/stts751_reg.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/Components/stts751/stts751_reg.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/STWIN/STWIN.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/STWIN/STWIN.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/STWIN/STWIN_bc.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/STWIN/STWIN_bc.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/STWIN/STWIN_debug_pins.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/STWIN/STWIN_debug_pins.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/STWIN/STWIN_sd.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/Drivers/BSP/STWIN/STWIN_sd.c</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>

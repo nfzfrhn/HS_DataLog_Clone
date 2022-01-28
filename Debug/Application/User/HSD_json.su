@@ -1,0 +1,17 @@
+HSD_json.c:604:13:create_JSON_SubSensorDescriptor	16	static
+HSD_json.c:527:13:create_JSON_SensorDescriptor	32	static
+HSD_json.c:589:13:create_JSON_SensorStatus	16	static
+HSD_json.c:389:16:parse_Status_from_JSON	56	static
+HSD_json.c:484:13:create_JSON_Sensor	48	static
+HSD_json.c:57:9:HSD_JSON_set_allocation_functions	8	static
+HSD_json.c:64:9:HSD_JSON_free	8	static
+HSD_json.c:76:9:HSD_JSON_serialize_Device	40	static
+HSD_json.c:81:9:HSD_JSON_serialize_DeviceInfo	24	static
+HSD_json.c:86:9:HSD_JSON_serialize_Sensor	16	static
+HSD_json.c:91:9:HSD_JSON_serialize_SensorDescriptor	16	static
+HSD_json.c:96:9:HSD_JSON_serialize_SensorStatus	16	static
+HSD_json.c:101:9:HSD_JSON_serialize_SubSensorDescriptor	16	static
+HSD_json.c:106:9:HSD_JSON_serialize_SubSensorStatus	24	static
+HSD_json.c:111:9:HSD_JSON_parse_Device	32	static
+HSD_json.c:116:9:HSD_JSON_parse_Command	16	static
+HSD_json.c:121:9:HSD_JSON_parse_Status	0	static
