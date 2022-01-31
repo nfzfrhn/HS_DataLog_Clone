@@ -31,55 +31,5 @@
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/readme.txt</locationURI>
 		</link>
-		<link>
-			<name>Application/SW4STM32/startup_stm32l4r9xx.s</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/startup_stm32l4r9xx.s</locationURI>
-		</link>
-		<link>
-			<name>Application/SW4STM32/syscalls.c</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/syscalls.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/lps22hh_app.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/lps22hh_app.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/sdcard_manager.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/sdcard_manager.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/sensors_manager.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/sensors_manager.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/stm32l4xx_it.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/stm32l4xx_it.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/stts751_app.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/stts751_app.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/usbd_conf.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/usbd_conf.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/usbd_desc.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/usbd_desc.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/usbd_wcid_interface.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Src/usbd_wcid_interface.c</locationURI>
-		</link>
 	</linkedResources>
 </projectDescription>

@@ -55,7 +55,8 @@ Middlewares/Third_Party/FatFs/src/option/unicode.o: \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usb.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h \
- ../Middlewares/Third_Party/FatFs/src/option/ccsbcs.c
+ ../Middlewares/Third_Party/FatFs/src/option/ccsbcs.c \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/Third_Party/FatFs/src/ff.h
 
 ../Middlewares/Third_Party/FatFs/src/option/../ff.h:
 
@@ -168,3 +169,5 @@ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Dri
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h:
 
 ../Middlewares/Third_Party/FatFs/src/option/ccsbcs.c:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/Third_Party/FatFs/src/ff.h:

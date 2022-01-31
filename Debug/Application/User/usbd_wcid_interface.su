@@ -1,0 +1,4 @@
+usbd_wcid_interface.c:411:15:WCID_STREAMING_Itf_Receive	0	static
+usbd_wcid_interface.c:101:15:WCID_STREAMING_Itf_DeInit	8	static
+usbd_wcid_interface.c:122:15:WCID_STREAMING_Itf_Control	40	static
+usbd_wcid_interface.c:82:15:WCID_STREAMING_Itf_Init	8	static

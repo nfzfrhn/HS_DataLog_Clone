@@ -1,8 +1,6 @@
-Middlewares/Third_Party/FatFs/src/option/ccsbcs.o: \
- ../Middlewares/Third_Party/FatFs/src/option/ccsbcs.c \
- ../Middlewares/Third_Party/FatFs/src/option/../ff.h \
- ../Middlewares/Third_Party/FatFs/src/option/../integer.h \
- ../Middlewares/Third_Party/FatFs/src/option/../ffconf.h \
+Application/User/usbd_desc.o: ../Application/User/usbd_desc.c \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_conf.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stm32l4xx_hal_conf.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc.h \
@@ -54,13 +52,19 @@ Middlewares/Third_Party/FatFs/src/option/ccsbcs.o: \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_uart_ex.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usb.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_desc.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Inc/usbd_wcid_streaming.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h
 
-../Middlewares/Third_Party/FatFs/src/option/../ff.h:
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
 
-../Middlewares/Third_Party/FatFs/src/option/../integer.h:
-
-../Middlewares/Third_Party/FatFs/src/option/../ffconf.h:
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_conf.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h:
 
@@ -165,3 +169,19 @@ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Dri
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usb.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_desc.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Inc/usbd_wcid_streaming.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:

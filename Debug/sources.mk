@@ -20,7 +20,6 @@ OBJCOPY_BIN :=
 
 # Every subdirectory with source files must be described here
 SUBDIRS := \
-Application/SW4STM32 \
 Application/User \
 Drivers/BSP/Components/hts221 \
 Drivers/BSP/Components/iis2dh \

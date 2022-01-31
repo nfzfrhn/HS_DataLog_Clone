@@ -1,11 +1,5 @@
-Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_conf_template.o: \
- ../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_conf_template.c \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_conf.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stm32l4xx_hal_conf.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h \
+Application/User/system_stm32l4xx.o: \
+ ../Application/User/system_stm32l4xx.c \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4r9xx.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/Include/core_cm4.h \
@@ -14,6 +8,10 @@ Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_conf_template.o: \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/Include/cmsis_gcc.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/Include/mpu_armv7.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stm32l4xx_hal_conf.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc_ex.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc_ex.h \
@@ -53,23 +51,7 @@ Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_conf_template.o: \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_uart_ex.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usb.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_conf.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stm32l4xx_hal_conf.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h:
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h:
 
@@ -86,6 +68,14 @@ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/Include/cms
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/Include/mpu_armv7.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stm32l4xx_hal_conf.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
 
@@ -166,11 +156,3 @@ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Dri
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usb.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h:

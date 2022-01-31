@@ -5,24 +5,18 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_conf_template.c \
 ../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c \
 ../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c \
-../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_desc_template.c \
 ../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c 
 
 OBJS += \
-./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_conf_template.o \
 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o \
 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o \
-./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_desc_template.o \
 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o 
 
 C_DEPS += \
-./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_conf_template.d \
 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.d \
 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.d \
-./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_desc_template.d \
 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.d 
 
 
@@ -33,7 +27,7 @@ Middlewares/ST/STM32_USB_Device_Library/Core/Src/%.o: ../Middlewares/ST/STM32_US
 clean: clean-Middlewares-2f-ST-2f-STM32_USB_Device_Library-2f-Core-2f-Src
 
 clean-Middlewares-2f-ST-2f-STM32_USB_Device_Library-2f-Core-2f-Src:
-	-$(RM) ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_conf_template.d ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_conf_template.o ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.d ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.d ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_desc_template.d ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_desc_template.o ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.d ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
+	-$(RM) ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.d ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.d ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.d ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
 
 .PHONY: clean-Middlewares-2f-ST-2f-STM32_USB_Device_Library-2f-Core-2f-Src
 

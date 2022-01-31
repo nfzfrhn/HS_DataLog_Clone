@@ -1,10 +1,5 @@
-Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_if_template.o: \
- ../Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_if_template.c \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_wcid_interface.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Inc/usbd_wcid_streaming.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_conf.h \
+Application/User/mp23abs1_app.o: ../Application/User/mp23abs1_app.c \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/mp23abs1_app.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stm32l4xx_hal_conf.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc.h \
@@ -57,17 +52,20 @@ Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usb.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/com_manager.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/main.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stm32l4xx_hal_conf.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_desc.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_conf.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Inc/usbd_wcid_streaming.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_wcid_interface.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/com_manager.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/sensors_manager.h \
- C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/main.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/FreeRTOSConfig.h \
@@ -101,21 +99,29 @@ Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/DSP/Include/arm_math.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis3dwb_app.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis3dwb/iis3dwb_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/mp23abs1_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/imp34dt05_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/ism330dhcx_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/ism330dhcx/ism330dhcx_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis2mdc_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis2mdc/iis2mdc_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis2dh_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis2dh/iis2dh_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/hts221_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/lps22hh_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/lps22hh/lps22hh_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stts751_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/stts751/stts751_reg.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/rtc.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/STWIN/STWIN_debug_pins.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/Third_Party/FreeRTOS/Source/include/freeRTOS.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/HSD_json.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/device_description.h
 
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_wcid_interface.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Inc/usbd_wcid_streaming.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_conf.h:
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/mp23abs1_app.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h:
 
@@ -221,14 +227,6 @@ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Dri
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h:
 
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h:
-
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/com_manager.h:
-
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/main.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stm32l4xx_hal_conf.h:
@@ -237,11 +235,25 @@ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_desc
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:
 
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_conf.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Inc/usbd_wcid_streaming.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h:
+
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/usbd_wcid_interface.h:
 
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/sensors_manager.h:
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/com_manager.h:
 
-C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/main.h:
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/sensors_manager.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h:
 
@@ -308,6 +320,38 @@ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/DSP/Include
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis3dwb_app.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis3dwb/iis3dwb_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/mp23abs1_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/imp34dt05_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/ism330dhcx_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/ism330dhcx/ism330dhcx_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis2mdc_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis2mdc/iis2mdc_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis2dh_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis2dh/iis2dh_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/hts221_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/lps22hh_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/lps22hh/lps22hh_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stts751_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/stts751/stts751_reg.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/rtc.h:
 

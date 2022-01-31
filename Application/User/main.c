@@ -494,6 +494,7 @@ void STTS751_Data_Ready(uint8_t * buf, uint16_t size, double timeStamp)
 
 void Peripheral_MSP_Init_All(void)
 {  
+#if 0
   IIS2MDC_Peripheral_Init();
   STTS751_Peripheral_Init();
   LPS22HH_Peripheral_Init();
@@ -501,13 +502,17 @@ void Peripheral_MSP_Init_All(void)
   IMP34DT05_Peripheral_Init();
   MP23ABS1_Peripheral_Init();
   ISM330DHCX_Peripheral_Init();
+#endif
   IIS3DWB_Peripheral_Init();
-  IIS2DH_Peripheral_Init();  
+#if 0
+  IIS2DH_Peripheral_Init();
+#endif
 }
 
 
 void Peripheral_OS_Init_All(void)
 {
+#if 0
   IIS2MDC_OS_Init();
   STTS751_OS_Init();
   LPS22HH_OS_Init();
@@ -515,8 +520,11 @@ void Peripheral_OS_Init_All(void)
   IMP34DT05_OS_Init();
   MP23ABS1_OS_Init();
   ISM330DHCX_OS_Init();
+#endif
   IIS3DWB_OS_Init();
+#if 0
   IIS2DH_OS_Init();
+#endif
 }
 
 

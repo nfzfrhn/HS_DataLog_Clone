@@ -29,7 +29,6 @@ RM := rm -rf
 -include Drivers/BSP/Components/iis2dh/subdir.mk
 -include Drivers/BSP/Components/hts221/subdir.mk
 -include Application/User/subdir.mk
--include Application/SW4STM32/subdir.mk
 -include subdir.mk
 -include objects.mk
 

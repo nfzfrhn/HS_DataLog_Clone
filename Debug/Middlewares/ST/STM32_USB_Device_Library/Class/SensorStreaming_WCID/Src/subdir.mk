@@ -5,15 +5,12 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_if_template.c \
 ../Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_streaming.c 
 
 OBJS += \
-./Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_if_template.o \
 ./Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_streaming.o 
 
 C_DEPS += \
-./Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_if_template.d \
 ./Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_streaming.d 
 
 
@@ -24,7 +21,7 @@ Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/%.o: ../M
 clean: clean-Middlewares-2f-ST-2f-STM32_USB_Device_Library-2f-Class-2f-SensorStreaming_WCID-2f-Src
 
 clean-Middlewares-2f-ST-2f-STM32_USB_Device_Library-2f-Class-2f-SensorStreaming_WCID-2f-Src:
-	-$(RM) ./Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_if_template.d ./Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_if_template.o ./Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_streaming.d ./Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_streaming.o
+	-$(RM) ./Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_streaming.d ./Middlewares/ST/STM32_USB_Device_Library/Class/SensorStreaming_WCID/Src/usbd_wcid_streaming.o
 
 .PHONY: clean-Middlewares-2f-ST-2f-STM32_USB_Device_Library-2f-Class-2f-SensorStreaming_WCID-2f-Src
 

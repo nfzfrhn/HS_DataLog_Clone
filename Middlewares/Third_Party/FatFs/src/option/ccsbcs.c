@@ -21,7 +21,8 @@
 /   869   Greek 2
 */
 
-#include "../ff.h"
+//#include "../ff.h"
+#include "ff.h"
 
 
 #if _CODE_PAGE == 437

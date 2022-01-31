@@ -1,0 +1,12 @@
+imp34dt05_app.c:249:6:DFSDM_Filter_0_HalfComplete_Callback	8	static
+imp34dt05_app.c:259:6:DFSDM_Filter_0_Complete_Callback	8	static
+imp34dt05_app.c:269:6:IMP34DT05_DFSDM_FilterMspInit	64	static
+imp34dt05_app.c:89:6:IMP34DT05_Peripheral_Init	24	static
+imp34dt05_app.c:158:6:IMP34DT05_OS_Init	40	static
+imp34dt05_app.c:320:6:IMP34DT05_Set_State	0	static
+imp34dt05_app.c:325:6:IMP34DT05_Set_ODR	0	static
+imp34dt05_app.c:330:6:IMP34DT05_Set_FS	0	static
+imp34dt05_app.c:336:6:IMP34DT05_Start	0	static
+imp34dt05_app.c:342:6:IMP34DT05_Stop	0	static
+imp34dt05_app.c:347:13:IMP34DT05_Data_Ready	0	static
+imp34dt05_app.c:173:13:IMP34DT05_Thread	56	static

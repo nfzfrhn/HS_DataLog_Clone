@@ -101,6 +101,22 @@ Application/User/device_description.o: \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/DSP/Include/arm_math.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis3dwb_app.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis3dwb/iis3dwb_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/mp23abs1_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/imp34dt05_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/ism330dhcx_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/ism330dhcx/ism330dhcx_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis2mdc_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis2mdc/iis2mdc_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis2dh_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis2dh/iis2dh_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/hts221_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/lps22hh_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/lps22hh/lps22hh_reg.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stts751_app.h \
+ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/stts751/stts751_reg.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/rtc.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/STWIN/STWIN_debug_pins.h \
  C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Middlewares/Third_Party/FreeRTOS/Source/include/freeRTOS.h \
@@ -308,6 +324,38 @@ C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/CMSIS/DSP/Include
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis3dwb_app.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis3dwb/iis3dwb_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/mp23abs1_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/imp34dt05_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/ism330dhcx_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/ism330dhcx/ism330dhcx_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis2mdc_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis2mdc/iis2mdc_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/iis2dh_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/iis2dh/iis2dh_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/hts221_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/hts221/hts221_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/lps22hh_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/lps22hh/lps22hh_reg.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/stts751_app.h:
+
+C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Drivers/BSP/Components/stts751/stts751_reg.h:
 
 C:/Users/Nafiz/Documents/STM_Cube_Workspace/HS_DataLog/Application/Inc/rtc.h:
 

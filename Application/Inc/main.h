@@ -45,7 +45,7 @@ extern "C" {
 
 #include "iis3dwb_app.h"
 
-/*
+
 #include "mp23abs1_app.h"
 #include "imp34dt05_app.h"
 #include "ism330dhcx_app.h"
@@ -54,7 +54,7 @@ extern "C" {
 #include "hts221_app.h"
 #include "lps22hh_app.h"
 #include "stts751_app.h"
-*/
+
 #include "rtc.h"
 
 

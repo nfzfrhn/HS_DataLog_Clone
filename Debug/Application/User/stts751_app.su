@@ -1,0 +1,9 @@
+stts751_app.c:57:6:STTS751_Peripheral_Init	0	static
+stts751_app.c:68:6:STTS751_OS_Init	40	static
+stts751_app.c:176:6:STTS751_Set_State	0	static
+stts751_app.c:181:6:STTS751_Set_ODR	0	static
+stts751_app.c:186:6:STTS751_Set_FS	0	static
+stts751_app.c:192:6:STTS751_Start	0	static
+stts751_app.c:198:6:STTS751_Stop	0	static
+stts751_app.c:203:13:STTS751_Data_Ready	0	static
+stts751_app.c:88:13:STTS751_Thread	56	static
